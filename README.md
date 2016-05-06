@@ -1,2 +1,5 @@
 # hello-world
-just another repository
+
+ Hi!
+
+  Arbie here, I want to learn programming.
